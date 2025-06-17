@@ -2,7 +2,7 @@ import { ChessBoard } from '../components/ChessBoard';
 
 const Index = () => {
   return (
-    <div className="min-h-screen bg-background">
+    <div className="min-h-screen">
       <ChessBoard />
     </div>
   );
